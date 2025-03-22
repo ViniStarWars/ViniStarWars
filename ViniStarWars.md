@@ -17,6 +17,6 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br/>
 
-- [📌 Airplane-Bag Game 1](https://github.com/SeuUsuario/Projeto1)
+- [📌 Airplane-Bag Game 1](https://github.com/ViniStarWars/game-airplanebag)
 
 ## Entusiasta de tecnologia e psicologia para o bem-estar social!
